@@ -1,4 +1,4 @@
-# Todo List App
+# Todo List
 A simple todo app
 
 - Mark tasks as completed by clicking on them.
